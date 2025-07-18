@@ -12,15 +12,18 @@ This repository contains a collection of my projects and learnings in the field 
 ### 2. Traditional OpenCV Learning
 - **Description**: A collection of notebooks covering foundational concepts in OpenCV including:
   - Image transformations
+  - Image Manipulation
   - Contour detection
   - Edge detection
   - Color space conversion
   - Morphological operations
+  - Traditonal Feature Matching
+  - Keypoints And Descriptors
 - **Technologies**: OpenCV
 
 ### 3. Image to Vector (img2vec)
 - **Description**: Converts images to fixed-size vector representations using deep learning models.
-- **Technologies**: TensorFlow/Keras, Pretrained CNNs (e.g., VGG16, ResNet)
+- **Technologies**: TensorFlow/Keras
 - **Applications**: Image similarity, clustering, retrieval.
 
 ### 4. Image Classification with tf.data Pipeline
