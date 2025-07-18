@@ -1,0 +1,9 @@
+sklearn
+Img2Vec(Pytorch)
+Tensorflow
+keras
+OpenCV
+Pillow
+numpy
+matplotlib
+Img2Vec(Keras)
